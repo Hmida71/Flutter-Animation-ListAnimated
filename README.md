@@ -83,10 +83,12 @@ Widget build(BuildContext context) {
   }
 </code></pre>
   
-  
+  <hr>
   <h2>
 Note From : flutter_staggered_animations in <a href="https://pub.dev/packages/flutter_staggered_animations">pub.dev</a> !! </h2>
+  <hr>
 <h2 style="color:red" > Note : This Package dont Support Null-Safety for see run in terminall ==> flutter run --no-sound-null-safety </h2>
+  <hr>
 <h1>
 🐱‍👤 Staggered Animations  made with algeria ❤
 </h1>
